@@ -1,0 +1,6 @@
+D:/Documents/WSC25_SSE_electronics/STM32G4_ICU/CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir
+D:/Documents/WSC25_SSE_electronics/STM32G4_ICU/CMakeFiles/edit_cache.dir
+D:/Documents/WSC25_SSE_electronics/STM32G4_ICU/CMakeFiles/rebuild_cache.dir
+D:/Documents/WSC25_SSE_electronics/STM32G4_ICU/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/Documents/WSC25_SSE_electronics/STM32G4_ICU/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/Documents/WSC25_SSE_electronics/STM32G4_ICU/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

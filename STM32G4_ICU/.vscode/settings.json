@@ -1,0 +1,8 @@
+{
+    "cortex-debug.variableUseNaturalFormat": true,
+    "files.associations": {
+        "compare": "cpp",
+        "ssd1322_hw_driver.h": "c",
+        "stdbool.h": "c"
+    }
+}

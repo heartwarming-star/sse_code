@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_ICU/build/Debug/cmake_install.cmake",
+		"C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_ICU/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

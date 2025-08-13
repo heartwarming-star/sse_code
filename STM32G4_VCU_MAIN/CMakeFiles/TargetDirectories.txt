@@ -1,0 +1,5 @@
+C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_VCU_MAIN/CMakeFiles/STM32G4_VCU_MAIN.dir
+C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_VCU_MAIN/CMakeFiles/edit_cache.dir
+C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_VCU_MAIN/CMakeFiles/rebuild_cache.dir
+C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_VCU_MAIN/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Minkyu.DESKTOP-3669R31/Desktop/Wsc25/WSC25_SSE_electronics/STM32G4_VCU_MAIN/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

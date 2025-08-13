@@ -1,0 +1,11 @@
+# ninja log v5
+223	1168	7618097199098376	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/startup_stm32g474xx.s.obj	38657d61bc9db873
+893	3721	7618097770886634	Driver_Interface_NucleoG474RE_firmware.elf	9b95002574bbffca
+213	1515	7618097205554604	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/sysmem.c.obj	2936602f3a2f6eef
+113	4103	7618097229394939	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/stm32g4xx_hal_msp.c.obj	c6881ddf6db38303
+89	6031	7618097237700120	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/main.c.obj	5748db708360e576
+218	1700	7618097207940945	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/syscalls.c.obj	50a918aec44f14a9
+96	1022	7618097198088072	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/SSD1322_OLED_lib/SSD1322_API.c.obj	585a834b34fed951
+109	4534	7618097229519696	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/stm32g4xx_it.c.obj	68a09d6c15d6e5c
+102	1285	7618097202241843	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/SSD1322_OLED_lib/SSD1322_GFX.c.obj	f2445e3cb2220b5c
+60	851	7618097742554000	CMakeFiles/Driver_Interface_NucleoG474RE_firmware.dir/Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c.obj	b8573a8d64607690

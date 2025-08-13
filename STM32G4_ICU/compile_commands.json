@@ -1,0 +1,194 @@
+[
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\main.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\main.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\stm32g4xx_it.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\stm32g4xx_it.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\stm32g4xx_it.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\stm32g4xx_it.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\stm32g4xx_hal_msp.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\stm32g4xx_hal_msp.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\stm32g4xx_hal_msp.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\stm32g4xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\sysmem.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\sysmem.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\syscalls.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\syscalls.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\startup_stm32g474xx.s.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\startup_stm32g474xx.s",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\startup_stm32g474xx.s",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\startup_stm32g474xx.s.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_API.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_API.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_API.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_API.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_GFX.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_GFX.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_GFX.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_GFX.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_HW_Driver.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_HW_Driver.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_HW_Driver.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322_HW_Driver.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Src/SSD1322_OLED_lib -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\SSD1322_OLED_lib\\SSD1322.c",
+  "output": "CMakeFiles\\Driver_Interface_NucleoG474RE_firmware.dir\\Core\\Src\\SSD1322_OLED_lib\\SSD1322.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32g4xx.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\system_stm32g4xx.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Core\\Src\\system_stm32g4xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32g4xx.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_fdcan.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_fdcan.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_fdcan.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_fdcan.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_spi_ex.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c.obj"
+},
+{
+  "directory": "D:/Documents/WSC25_SSE_electronics/STM32G4_ICU",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G474xx -DUSE_HAL_DRIVER -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Core/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/Documents/WSC25_SSE_electronics/STM32G4_ICU/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c.obj -c D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c",
+  "file": "D:\\Documents\\WSC25_SSE_electronics\\STM32G4_ICU\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c.obj"
+}
+]
